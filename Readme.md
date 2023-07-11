@@ -1,6 +1,5 @@
 <h1 align="Center"> Sudo rm-rf World </h1>
-- I'm Batman 
-- I'm IronMan
-- I'm Pirate
-- I'm Hacker
-- I'm Justice 
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Hackcise&theme=dark)](https://git.io/streak-stats)
+  
